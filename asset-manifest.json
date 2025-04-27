@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://sibendu.github.io/react-gh-pages/static/css/main.3c364d80.css",
-    "main.js": "https://sibendu.github.io/react-gh-pages/static/js/main.e3e05196.js",
+    "main.js": "https://sibendu.github.io/react-gh-pages/static/js/main.980f02a0.js",
     "static/js/453.cbbcd9d1.chunk.js": "https://sibendu.github.io/react-gh-pages/static/js/453.cbbcd9d1.chunk.js",
     "static/media/bootstrap-icons.woff?": "https://sibendu.github.io/react-gh-pages/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "https://sibendu.github.io/react-gh-pages/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "https://sibendu.github.io/react-gh-pages/index.html",
     "main.3c364d80.css.map": "https://sibendu.github.io/react-gh-pages/static/css/main.3c364d80.css.map",
-    "main.e3e05196.js.map": "https://sibendu.github.io/react-gh-pages/static/js/main.e3e05196.js.map",
+    "main.980f02a0.js.map": "https://sibendu.github.io/react-gh-pages/static/js/main.980f02a0.js.map",
     "453.cbbcd9d1.chunk.js.map": "https://sibendu.github.io/react-gh-pages/static/js/453.cbbcd9d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c364d80.css",
-    "static/js/main.e3e05196.js"
+    "static/js/main.980f02a0.js"
   ]
 }
