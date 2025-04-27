@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sibendu/react-gh-pages/static/css/main.f855e6bc.css",
-    "main.js": "/sibendu/react-gh-pages/static/js/main.5157a04b.js",
-    "static/js/453.cbbcd9d1.chunk.js": "/sibendu/react-gh-pages/static/js/453.cbbcd9d1.chunk.js",
-    "static/media/logo.svg": "/sibendu/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/sibendu/react-gh-pages/index.html",
-    "main.f855e6bc.css.map": "/sibendu/react-gh-pages/static/css/main.f855e6bc.css.map",
-    "main.5157a04b.js.map": "/sibendu/react-gh-pages/static/js/main.5157a04b.js.map",
-    "453.cbbcd9d1.chunk.js.map": "/sibendu/react-gh-pages/static/js/453.cbbcd9d1.chunk.js.map"
+    "main.css": "https://github.com/sibendu/react-gh-pages/static/css/main.f855e6bc.css",
+    "main.js": "https://github.com/sibendu/react-gh-pages/static/js/main.b6f498f0.js",
+    "static/js/453.cbbcd9d1.chunk.js": "https://github.com/sibendu/react-gh-pages/static/js/453.cbbcd9d1.chunk.js",
+    "static/media/logo.svg": "https://github.com/sibendu/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "https://github.com/sibendu/react-gh-pages/index.html",
+    "main.f855e6bc.css.map": "https://github.com/sibendu/react-gh-pages/static/css/main.f855e6bc.css.map",
+    "main.b6f498f0.js.map": "https://github.com/sibendu/react-gh-pages/static/js/main.b6f498f0.js.map",
+    "453.cbbcd9d1.chunk.js.map": "https://github.com/sibendu/react-gh-pages/static/js/453.cbbcd9d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.5157a04b.js"
+    "static/js/main.b6f498f0.js"
   ]
 }
